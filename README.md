@@ -1,3 +1,2 @@
-dash-dependent-gauges was my exercise to let a user select two values, 
-display the selected values in a Gauge and have a third output Gauge 
-which shows the average of the two selected values.
+## Dash dependent Gauges
+Dash dependent Gauges is just a simple exercise to create two dependent Gauges, with a slider to manipulate the value and a third Gauge to show the average value.
